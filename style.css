@@ -767,3 +767,38 @@ footer {
         grid-template-columns: 1fr !important;
     }
 }
+
+/* ENTER WEBSITE BUTTON */
+#welcomePopup .popup-box button {
+    background-color: #FFD700 !important;
+    color: #000000 !important;
+    border: 2px solid #000000 !important;
+    border-radius: 8px !important;
+    padding: 12px 25px !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    box-sizing: border-box !important;
+}
+
+#welcomePopup .popup-box button:hover {
+    background-color: #000000 !important;
+    color: #FFD700 !important;
+    border: 2px solid #FFD700 !important;
+}
+
+/* Welcome popup button - Umarix black and gold */
+#welcomePopup .popup-box button {
+    background: #FFD700 !important;
+    color: #000000 !important;
+    border: 2px solid #000000 !important;
+    border-radius: 8px !important;
+    padding: 12px 25px !important;
+    font-weight: bold !important;
+    cursor: pointer;
+}
+
+#welcomePopup .popup-box button:hover {
+    background: #000000 !important;
+    color: #FFD700 !important;
+    border-color: #FFD700 !important;
+}
